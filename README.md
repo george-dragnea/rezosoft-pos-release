@@ -1,1 +1,1 @@
-# rezosoft-pos-release
+# RezoSoft POS
