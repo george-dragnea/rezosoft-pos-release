@@ -1,0 +1,1 @@
+# rezosoft-pos-release
